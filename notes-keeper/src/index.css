@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: linear-gradient(120deg, #f6d365, #fda085);
+  min-height: 100vh;
+  color: #2c2c2c;
+}
+
+input,
+button,
+textarea,
+select {
+  font-family: inherit;
+}
+
+input,
+button {
+  font-size: 14px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card {
+  transition: 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+/* GLOBAL RESPONSIVE BASE */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* MOBILE SAFE CONTAINERS */
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* MOBILE BREAKPOINT */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr !important;
+  }
+}
