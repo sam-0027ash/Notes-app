@@ -35,6 +35,13 @@ It allows users to create, edit, delete, pin, and search notes with a smooth and
 - Beginner-friendly project structure
 
 ---
+🔐 Test Login
+
+Email: demo@notes.com
+
+Password: demo123
+
+---
 👨‍💻 Author
 
 Built as a personal learning project to improve React skills and frontend development fundamentals.
