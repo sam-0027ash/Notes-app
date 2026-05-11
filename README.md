@@ -35,6 +35,11 @@ It allows users to create, edit, delete, pin, and search notes with a smooth and
 - Beginner-friendly project structure
 
 ---
+Link
+
+Netlify Deployment : https://shamitha-notes-app.netlify.app/
+
+---
 🔐 Test Login
 
 Email: demo@notes.com
